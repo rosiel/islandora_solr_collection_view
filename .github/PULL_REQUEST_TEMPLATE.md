@@ -1,4 +1,4 @@
-**Github Issue (if relevant)**
+Fixes #[Github Issue Number]
 
 * Other Relevant Links (Google Groups discussion, related pull requests, Release pull requests, etc.)
 
